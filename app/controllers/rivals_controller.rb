@@ -1,2 +1,0 @@
-class RivalsController < ApplicationController
-end

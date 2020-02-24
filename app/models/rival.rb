@@ -1,2 +1,0 @@
-class Rival < ApplicationRecord
-end
