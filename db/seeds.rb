@@ -151,15 +151,15 @@ Player.create(name:"Newton Wallach", age: 25, position: "Cutter", gender: "Male"
 
  #Game Info 
 
- game_1 = Game.create(season: spring_2020, time:"12:00pm", location: city_park_1)
- game_2 = Game.create(season: spring_2020, time:"2:00pm", location: city_park_2)
- game_3 = Game.create(season: spring_2020, time:"11:00am", location: manuel_high_1)
- game_4 = Game.create(season: spring_2020, time:"10:00am", location: manuel_high_2)
- game_5 = Game.create(season: spring_2020, time:"12:00pm", location: garland_park_1)
- game_6 = Game.create(season: spring_2020, time:"12:00pm", location: garland_park_2)
- game_7 = Game.create(season: spring_2020, time:"3:00pm", location: garland_park_4)
- game_8 = Game.create(season: spring_2020, time:"9:00am", location: city_park_4)
- game_9 = Game.create(season: spring_2020, time:"10:00am", location: manuel_high_1)
+ game_1 = Game.create(season: spring_2020, date: "03/15/2020", time:"12:00pm", location: city_park_1)
+ game_2 = Game.create(season: spring_2020, date: "03/21/2020", time:"2:00pm", location: city_park_2)
+ game_3 = Game.create(season: spring_2020, date: "03/22/2020", time:"11:00am", location: manuel_high_1)
+ game_4 = Game.create(season: spring_2020, date: "03/29/2020", time:"10:00am", location: manuel_high_2)
+ game_5 = Game.create(season: spring_2020, date: "04/04/2020", time:"12:00pm", location: garland_park_1)
+ game_6 = Game.create(season: spring_2020, date: "04/12/2020", time:"12:00pm", location: garland_park_2)
+ game_7 = Game.create(season: spring_2020, date: "04/25/2020", time:"3:00pm", location: garland_park_4)
+ game_8 = Game.create(season: spring_2020, date: "05/06/2020", time:"9:00am", location: city_park_4)
+ game_9 = Game.create(season: spring_2020, date: "05/09/2020", time:"10:00am", location: manuel_high_1)
 
  
  # Game match info 
