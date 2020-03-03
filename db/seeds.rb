@@ -32,15 +32,16 @@ fall_2020 = Season.create(name:"Fall 2020")
 
 #Team Name 
 
-flatiron_flyers = Team.create(name:"Flatiron Flyers", color: "Blue", image: "")
-hucks = Team.create(name:"Hucks for Grabs", color: "Purple", image: "https://i.ibb.co/Hn4X5xg/9.png")
-baller_inas = Team.create(name:"Baller-inas", color: "Pink", image: "https://i.ibb.co/k6YTN7L/5.png")
-black_metal = Team.create(name:"Black Metal", color: "Black", image: "")
-flat_discers = Team.create(name:"Flat Discers", color: "White", image: "")
-redrum = Team.create(name:"Redrum", color: "Red", image: "https://i.ibb.co/3N9D7yZ/4.png")
-mighty_hucks = Team.create(name:"Mighty Hucks", color: "Green", image: "https://i.ibb.co/4RkRrX3/3.png")
-firetruck = Team.create(name:"Firetruck", color: "Red", image: "https://i.ibb.co/vdR0Xjj/2.png")
-llamas = Team.create(name:"Flying Llamas", color: "Yellow", image: "https://i.ibb.co/wMjyxTW/1.png")
+
+flatiron_flyers = Team.create(name:"Flatiron Flyers", color: "Blue", image: "https://i.ibb.co/vHDgCxX/flatiron.png")
+hucks = Team.create(name:"Hucks for Grabs", color: "Purple", image: "https://i.ibb.co/s1Hmw1B/Screen-Shot-2020-03-02-at-4-49-33-PM.png")
+frizards = Team.create(name:"You're a Frizard, Harry", color: "Pink", image: "https://i.ibb.co/Z2p7X75/Screen-Shot-2020-03-02-at-4-56-56-PM.png")
+black_metal = Team.create(name:"Black Metal", color: "Black", image: "https://i.ibb.co/gtJvF2h/Screen-Shot-2020-03-01-at-8-44-26-AM.png")
+flat_discers = Team.create(name:"Flat Discers", color: "White", image: "https://i.ibb.co/rxLcQRK/Screen-Shot-2020-03-01-at-9-01-15-AM.png")
+redrum = Team.create(name:"Redrum", color: "Red", image: "https://i.ibb.co/hRF3GMg/Screen-Shot-2020-03-02-at-4-47-23-PM.png")
+mighty_hucks = Team.create(name:"Mighty Hucks", color: "Green", image: "https://i.ibb.co/kcd08LX/Screen-Shot-2020-03-01-at-8-32-32-AM.png")
+firetruck = Team.create(name:"Firetruck", color: "Red", image: "https://i.ibb.co/FWvBxNM/Screen-Shot-2020-03-01-at-8-56-29-AM.png")
+llamas = Team.create(name:"Flying Llamas", color: "Yellow", image: "https://i.ibb.co/DkmHt3v/Screen-Shot-2020-03-01-at-9-06-26-AM.png")
 
  # Player Names 
 
@@ -69,16 +70,16 @@ Player.create(name:"Alex Cromwell", age: 23, position: "Handler", gender: "Male"
 Player.create(name:"Dave Stienwall", age: 22, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: hucks, image:"" )
 
 
-Player.create(name:"Ronna Kale", age: 28, position: "Handler", gender: "Genderless", level: "Intermediate", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Emelina Elsass", age: 28, position: "Handler", gender: "Non-binary", level: "Intermediate", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Robbi Tores", age: 18, position: "Handler", gender: "Female", level: "Intermediate", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Heath Mcelravy", age: 20, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Elsa Burnell", age: 38, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Mahalia Watford", age: 35, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Tyrell Coolbaugh", age: 20, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Albert Shutt", age: 30, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Zena Wurth", age: 19, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: baller_inas, image:"" )
-Player.create(name:"Candyce Casady", age: 31, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: baller_inas, image:"" )
+Player.create(name:"Ronna Kale", age: 28, position: "Handler", gender: "Genderless", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Emelina Elsass", age: 28, position: "Handler", gender: "Non-binary", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Robbi Tores", age: 18, position: "Handler", gender: "Female", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Heath Mcelravy", age: 20, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Elsa Burnell", age: 38, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Mahalia Watford", age: 35, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Tyrell Coolbaugh", age: 20, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Albert Shutt", age: 30, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Zena Wurth", age: 19, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Candyce Casady", age: 31, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: frizards, image:"" )
 
 
 Player.create(name:"Moshe Schlager", age: 22, position: "Handler", gender: "Male", level: "Advanced", spirit_animal:"", team: black_metal, image:"" )
@@ -165,7 +166,7 @@ Player.create(name:"Newton Wallach", age: 25, position: "Cutter", gender: "Male"
  # Game match info 
 
  flyers_vs_hucks = TeamGame.create(game: game_1, rival: hucks, team: flatiron_flyers)
- flyers_vs_baller_inas = TeamGame.create(game: game_2, rival: baller_inas, team: flatiron_flyers)
+ flyers_vs_frizards = TeamGame.create(game: game_2, rival: frizards, team: flatiron_flyers)
  flyers_vs_black_metal = TeamGame.create(game: game_3, rival: black_metal, team: flatiron_flyers)
  flyers_vs_flat_discers = TeamGame.create(game: game_4, rival: flat_discers, team: flatiron_flyers)
  flyers_vs_redrum = TeamGame.create(game: game_5, rival: redrum, team: flatiron_flyers)
