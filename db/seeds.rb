@@ -18,16 +18,16 @@ fall_2020 = Season.create(name:"Fall 2020")
 
  # # Locations 
 
- city_park_1 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", field_type:"Grass", field_num:1)
- city_park_2 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", field_type:"Grass", field_num:2)
- city_park_3 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", field_type:"Grass", field_num:3)
- city_park_4 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", field_type:"Grass", field_num:4)
- garland_park_1 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", field_type:"Grass", field_num:1)
- garland_park_2 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", field_type:"Grass", field_num:2)
- garland_park_3 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", field_type:"Grass", field_num:3)
- garland_park_4 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", field_type:"Grass", field_num:4)
- manuel_high_1 = Location.create(name:"Manuel High School", address: "1700 E 28th Ave, Denver, CO 80205", field_type:"Turf", field_num:1)
- manuel_high_2 = Location.create(name:"Manuel High School", address: "1700 E 28th Ave, Denver, CO 80205", field_type:"Turf", field_num:2)
+ city_park_1 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", lat: "39.750426", lng: "-104.941863", field_type:"Grass", field_num:1)
+ city_park_2 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", lat: "39.749948", lng: "-104.941794", field_type:"Grass", field_num:2)
+ city_park_3 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", lat: "39.750569", lng: "-104.943626", field_type:"Grass", field_num:3)
+ city_park_4 = Location.create(name:"City Park", address: "2001 Colorado Blvd, Denver, CO 80205", lat: "39.749841", lng: "-104.943653", field_type:"Grass", field_num:4)
+ garland_park_1 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", lat: "39.696908", lng: "-104.918553", field_type:"Grass", field_num:1)
+ garland_park_2 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", lat: "39.69704", lng: "-104.919426", field_type:"Grass", field_num:2)
+ garland_park_3 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", lat: "39.697757", lng: "-104.918385", field_type:"Grass", field_num:3)
+ garland_park_4 = Location.create(name:"Garland Park", address: "6300 E Mississippi Ave, Denver, CO 80224", lat: "39.697674", lng: "-104.919930", field_type:"Grass", field_num:4)
+ manuel_high_1 = Location.create(name:"Manuel High School", address: "1700 E 28th Ave, Denver, CO 80205", lat: "39.755563", lng: "-104.967632", field_type:"Turf", field_num:1)
+ manuel_high_2 = Location.create(name:"Manuel High School", address: "1700 E 28th Ave, Denver, CO 80205", lat: "39.75520", lng: "-104.967773", field_type:"Turf", field_num:2)
 
 
 #Team Name 
@@ -44,6 +44,50 @@ firetruck = Team.create(name:"Firetruck", color: "Red", image: "https://i.ibb.co
 llamas = Team.create(name:"Flying Llamas", color: "Yellow", image: "https://i.ibb.co/DkmHt3v/Screen-Shot-2020-03-01-at-9-06-26-AM.png")
 
  # Player Names 
+
+ <a href="https://ibb.co/tprPrCP"><img src="https://i.ibb.co/whmrm6r/aaron-burmeister.jpg" alt="aaron-burmeister" border="0"></a>
+ <a href="https://ibb.co/sQ16PPR"><img src="https://i.ibb.co/4MSYfft/adam-shappy.jpg" alt="adam-shappy" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/8XTNnmz/ahmed-gaber.jpg" alt="ahmed-gaber" border="0"></a>
+ <a href="https://ibb.co/wyNVVcf"><img src="https://i.ibb.co/5TWmmKP/aj-diaz.jpg" alt="aj-diaz" border="0"></a>
+ <a href="https://ibb.co/swLzFRZ"><img src="https://i.ibb.co/zRKDSxz/alexis-chilinski.jpg" alt="alexis-chilinski" border="0"></a>
+ <a href="https://ibb.co/Jt1Lrcd"><img src="https://i.ibb.co/h9652gM/alice-richardson.jpg" alt="alice-richardson" border="0"></a>
+ <a href="https://ibb.co/Q9WFp62"><img src="https://i.ibb.co/sjTvbF0/ben-tagtow.jpg" alt="ben-tagtow" border="0"></a>
+ <a href="https://ibb.co/ryWHKMw"><img src="https://i.ibb.co/h8qVxHm/bradley-haley.jpg" alt="bradley-haley" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/gVKbDG1/brian-firooz.jpg" alt="brian-firooz" border="0"></a>
+ <a href="https://ibb.co/n8TGhDQ"><img src="https://i.ibb.co/Fq9rGB8/charles-kiel.jpg" alt="charles-kiel" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/w0J13y3/damon-chivers.jpg" alt="damon-chivers" border="0"></a>
+ <a href="https://ibb.co/GCvqh6p"><img src="https://i.ibb.co/wpNfvkg/dani-matton.jpg" alt="dani-matton" border="0"></a>
+ <a href="https://ibb.co/VBxSxH6"><img src="https://i.ibb.co/BsGZG4k/denise-magner.jpg" alt="denise-magner" border="0"></a>
+ <a href="https://ibb.co/3SGFhzB"><img src="https://i.ibb.co/WBqzKtg/doug-johnson.jpg" alt="doug-johnson" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/MNFzdw3/evan-greer.jpg" alt="evan-greer" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZNdZbwS/jack-perry.png" alt="jack-perry" border="0"></a>
+ <a href="https://ibb.co/HD4jKCR"><img src="https://i.ibb.co/TB2sw1J/jared-matta.jpg" alt="jared-matta" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/wSkKJZT/jared-stromberg.jpg" alt="jared-stromberg" border="0"></a>
+ <a href="https://ibb.co/Hxhr9TJ"><img src="https://i.ibb.co/dLmQH4h/jeremy-gray.jpg" alt="jeremy-gray" border="0"></a>
+ <a href="https://ibb.co/nQ4xG8t"><img src="https://i.ibb.co/dkX8TJx/joe-gelay.jpg" alt="joe-gelay" border="0"></a>
+ <a href="https://ibb.co/hmLXxm2"><img src="https://i.ibb.co/87Nzn7P/john-rogala.jpg" alt="john-rogala" border="0"></a>
+ <a href="https://ibb.co/5v2rrTL"><img src="https://i.ibb.co/L6vxxS1/jonathan-higger.jpg" alt="jonathan-higger" border="0"></a>
+ <a href="https://ibb.co/KqcWKx7"><img src="https://i.ibb.co/r6KHd2M/jorge-santos.jpg" alt="jorge-santos" border="0"></a>
+ <a href="https://ibb.co/fVJ6Jvr"><img src="https://i.ibb.co/wZtGtsp/karl-matthes.jpg" alt="karl-matthes" border="0"></a>
+ <a href="https://ibb.co/zhFPq8z"><img src="https://i.ibb.co/pvQ4YWS/kat-scriver.jpg" alt="kat-scriver" border="0"></a>
+ <a href="https://ibb.co/xhp0hFG"><img src="https://i.ibb.co/9nFLnZ2/katie-belanger.jpg" alt="katie-belanger" border="0"></a>
+ <a href="https://ibb.co/yF0HySw"><img src="https://i.ibb.co/0yqHMtg/kelly-rudnicki.jpg" alt="kelly-rudnicki" border="0"></a>
+ <a href="https://ibb.co/CHwNMdy"><img src="https://i.ibb.co/RDgZBnK/kristine-du.jpg" alt="kristine-du" border="0"></a>
+ <a href="https://ibb.co/KXbvpb8"><img src="https://i.ibb.co/FKmTLmd/lillian-bitner.jpg" alt="lillian-bitner" border="0"></a>
+ <a href="https://ibb.co/r66GDbC"><img src="https://i.ibb.co/VSSWfH7/mateusz-mrozewski.jpg" alt="mateusz-mrozewski" border="0"></a>
+ <a href="https://ibb.co/5LPXxn3"><img src="https://i.ibb.co/x6NK8fb/michael-newman.jpg" alt="michael-newman" border="0"></a>
+ <a href="https://ibb.co/tZhhq1d"><img src="https://i.ibb.co/VHNNgkK/mike-de-la-rosa.jpg" alt="mike-de-la-rosa" border="0"></a>
+ <a href="https://ibb.co/6sRcb4K"><img src="https://i.ibb.co/JkRW2zY/miriam-grisby.jpg" alt="miriam-grisby" border="0"></a>
+ <a href="https://ibb.co/HHLqcSf"><img src="https://i.ibb.co/DRPQBJH/miwha-geschwind.jpg" alt="miwha-geschwind" border="0"></a>
+ <a href="https://ibb.co/zVyYrLz"><img src="https://i.ibb.co/0ygScWx/parker-becall.jpg" alt="parker-becall" border="0"></a>
+ <a href="https://ibb.co/f4gCgw1"><img src="https://i.ibb.co/RzFCFwv/patrick-hoehn.jpg" alt="patrick-hoehn" border="0"></a>
+ <a href="https://ibb.co/5GSyQtb"><img src="https://i.ibb.co/S5M8kWF/rachel-emmer.jpg" alt="rachel-emmer" border="0"></a>
+ <a href="https://ibb.co/Mncf8ym"><img src="https://i.ibb.co/6YH8vck/tissiana-alves.jpg" alt="tissiana-alves" border="0"></a>
+ <a href="https://ibb.co/C9swQxN"><img src="https://i.ibb.co/Ksz5WCR/todd-carlson.jpg" alt="todd-carlson" border="0"></a>
+ <a href="https://ibb.co/j8Tzjkn"><img src="https://i.ibb.co/L08rsdV/tyler-funk.jpg" alt="tyler-funk" border="0"></a>
+ <a href="https://ibb.co/DrHPVd5"><img src="https://i.ibb.co/z6TWndG/corey-hodge.jpg" alt="corey-hodge" border="0"></a>
+<a href="https://ibb.co/nrgJ8Ps"><img src="https://i.ibb.co/1ZvWJzf/josh-cabral.jpg" alt="josh-cabral" border="0"></a>
+
 
  Player.create(name:"Corey Hodge", age: 32, position:"Handler", level:"Advanced", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
  Player.create(name:"Bradley Haley", age: 26, position:"Handler", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
