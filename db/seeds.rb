@@ -45,153 +45,103 @@ llamas = Team.create(name:"Flying Llamas", color: "Yellow", image: "https://i.ib
 
  # Player Names 
 
- <a href="https://ibb.co/tprPrCP"><img src="https://i.ibb.co/whmrm6r/aaron-burmeister.jpg" alt="aaron-burmeister" border="0"></a>
- <a href="https://ibb.co/sQ16PPR"><img src="https://i.ibb.co/4MSYfft/adam-shappy.jpg" alt="adam-shappy" border="0"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/8XTNnmz/ahmed-gaber.jpg" alt="ahmed-gaber" border="0"></a>
- <a href="https://ibb.co/wyNVVcf"><img src="https://i.ibb.co/5TWmmKP/aj-diaz.jpg" alt="aj-diaz" border="0"></a>
- <a href="https://ibb.co/swLzFRZ"><img src="https://i.ibb.co/zRKDSxz/alexis-chilinski.jpg" alt="alexis-chilinski" border="0"></a>
- <a href="https://ibb.co/Jt1Lrcd"><img src="https://i.ibb.co/h9652gM/alice-richardson.jpg" alt="alice-richardson" border="0"></a>
- <a href="https://ibb.co/Q9WFp62"><img src="https://i.ibb.co/sjTvbF0/ben-tagtow.jpg" alt="ben-tagtow" border="0"></a>
- <a href="https://ibb.co/ryWHKMw"><img src="https://i.ibb.co/h8qVxHm/bradley-haley.jpg" alt="bradley-haley" border="0"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/gVKbDG1/brian-firooz.jpg" alt="brian-firooz" border="0"></a>
- <a href="https://ibb.co/n8TGhDQ"><img src="https://i.ibb.co/Fq9rGB8/charles-kiel.jpg" alt="charles-kiel" border="0"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/w0J13y3/damon-chivers.jpg" alt="damon-chivers" border="0"></a>
- <a href="https://ibb.co/GCvqh6p"><img src="https://i.ibb.co/wpNfvkg/dani-matton.jpg" alt="dani-matton" border="0"></a>
- <a href="https://ibb.co/VBxSxH6"><img src="https://i.ibb.co/BsGZG4k/denise-magner.jpg" alt="denise-magner" border="0"></a>
- <a href="https://ibb.co/3SGFhzB"><img src="https://i.ibb.co/WBqzKtg/doug-johnson.jpg" alt="doug-johnson" border="0"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/MNFzdw3/evan-greer.jpg" alt="evan-greer" border="0"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZNdZbwS/jack-perry.png" alt="jack-perry" border="0"></a>
- <a href="https://ibb.co/HD4jKCR"><img src="https://i.ibb.co/TB2sw1J/jared-matta.jpg" alt="jared-matta" border="0"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/wSkKJZT/jared-stromberg.jpg" alt="jared-stromberg" border="0"></a>
- <a href="https://ibb.co/Hxhr9TJ"><img src="https://i.ibb.co/dLmQH4h/jeremy-gray.jpg" alt="jeremy-gray" border="0"></a>
- <a href="https://ibb.co/nQ4xG8t"><img src="https://i.ibb.co/dkX8TJx/joe-gelay.jpg" alt="joe-gelay" border="0"></a>
- <a href="https://ibb.co/hmLXxm2"><img src="https://i.ibb.co/87Nzn7P/john-rogala.jpg" alt="john-rogala" border="0"></a>
- <a href="https://ibb.co/5v2rrTL"><img src="https://i.ibb.co/L6vxxS1/jonathan-higger.jpg" alt="jonathan-higger" border="0"></a>
- <a href="https://ibb.co/KqcWKx7"><img src="https://i.ibb.co/r6KHd2M/jorge-santos.jpg" alt="jorge-santos" border="0"></a>
- <a href="https://ibb.co/fVJ6Jvr"><img src="https://i.ibb.co/wZtGtsp/karl-matthes.jpg" alt="karl-matthes" border="0"></a>
- <a href="https://ibb.co/zhFPq8z"><img src="https://i.ibb.co/pvQ4YWS/kat-scriver.jpg" alt="kat-scriver" border="0"></a>
- <a href="https://ibb.co/xhp0hFG"><img src="https://i.ibb.co/9nFLnZ2/katie-belanger.jpg" alt="katie-belanger" border="0"></a>
- <a href="https://ibb.co/yF0HySw"><img src="https://i.ibb.co/0yqHMtg/kelly-rudnicki.jpg" alt="kelly-rudnicki" border="0"></a>
- <a href="https://ibb.co/CHwNMdy"><img src="https://i.ibb.co/RDgZBnK/kristine-du.jpg" alt="kristine-du" border="0"></a>
- <a href="https://ibb.co/KXbvpb8"><img src="https://i.ibb.co/FKmTLmd/lillian-bitner.jpg" alt="lillian-bitner" border="0"></a>
- <a href="https://ibb.co/r66GDbC"><img src="https://i.ibb.co/VSSWfH7/mateusz-mrozewski.jpg" alt="mateusz-mrozewski" border="0"></a>
- <a href="https://ibb.co/5LPXxn3"><img src="https://i.ibb.co/x6NK8fb/michael-newman.jpg" alt="michael-newman" border="0"></a>
- <a href="https://ibb.co/tZhhq1d"><img src="https://i.ibb.co/VHNNgkK/mike-de-la-rosa.jpg" alt="mike-de-la-rosa" border="0"></a>
- <a href="https://ibb.co/6sRcb4K"><img src="https://i.ibb.co/JkRW2zY/miriam-grisby.jpg" alt="miriam-grisby" border="0"></a>
- <a href="https://ibb.co/HHLqcSf"><img src="https://i.ibb.co/DRPQBJH/miwha-geschwind.jpg" alt="miwha-geschwind" border="0"></a>
- <a href="https://ibb.co/zVyYrLz"><img src="https://i.ibb.co/0ygScWx/parker-becall.jpg" alt="parker-becall" border="0"></a>
- <a href="https://ibb.co/f4gCgw1"><img src="https://i.ibb.co/RzFCFwv/patrick-hoehn.jpg" alt="patrick-hoehn" border="0"></a>
- <a href="https://ibb.co/5GSyQtb"><img src="https://i.ibb.co/S5M8kWF/rachel-emmer.jpg" alt="rachel-emmer" border="0"></a>
- <a href="https://ibb.co/Mncf8ym"><img src="https://i.ibb.co/6YH8vck/tissiana-alves.jpg" alt="tissiana-alves" border="0"></a>
- <a href="https://ibb.co/C9swQxN"><img src="https://i.ibb.co/Ksz5WCR/todd-carlson.jpg" alt="todd-carlson" border="0"></a>
- <a href="https://ibb.co/j8Tzjkn"><img src="https://i.ibb.co/L08rsdV/tyler-funk.jpg" alt="tyler-funk" border="0"></a>
- <a href="https://ibb.co/DrHPVd5"><img src="https://i.ibb.co/z6TWndG/corey-hodge.jpg" alt="corey-hodge" border="0"></a>
-<a href="https://ibb.co/nrgJ8Ps"><img src="https://i.ibb.co/1ZvWJzf/josh-cabral.jpg" alt="josh-cabral" border="0"></a>
 
-
- Player.create(name:"Corey Hodge", age: 32, position:"Handler", level:"Advanced", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Bradley Haley", age: 26, position:"Handler", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Lillian Bitner", age: 24, position:"Handler", level:"Beginner", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Rachel Emmer", age: 29, position:"Handler", level:"Advanced", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"")
+ Player.create(name:"Corey Hodge", age: 32, position:"Handler", level:"Advanced", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/z6TWndG/corey-hodge.jpg")
+ Player.create(name:"Bradley Haley", age: 26, position:"Handler", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/h8qVxHm/bradley-haley.jpg")
+ Player.create(name:"Lillian Bitner", age: 24, position:"Handler", level:"Beginner", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/FKmTLmd/lillian-bitner.jpg")
+ Player.create(name:"Rachel Emmer", age: 29, position:"Handler", level:"Advanced", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/S5M8kWF/rachel-emmer.jpg")
  
- Player.create(name:"Josh Cabral", age: 28, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Jorge Santos", age: 19, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Aaron Burmeister", age: 30, position:"Cutter", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Alice Richardson", age: 27, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"")
- Player.create(name:"Miwha Geschwind", age: 26, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"Bear", team: flatiron_flyers, image:"")
- Player.create(name:"Tissi Alves", age: 28, position:"Cutter", level:"Advanced", gender:"female", spirit_animal:"", team: flatiron_flyers, image:"")
+ Player.create(name:"Josh Cabral", age: 28, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/1ZvWJzf/josh-cabral.jpg")
+ Player.create(name:"Jorge Santos", age: 19, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/r6KHd2M/jorge-santos.jpg")
+ Player.create(name:"Aaron Burmeister", age: 30, position:"Cutter", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/whmrm6r/aaron-burmeister.jpg")
+ Player.create(name:"Alice Richardson", age: 27, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/h9652gM/alice-richardson.jpg")
+ Player.create(name:"Miwha Geschwind", age: 26, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"Bear", team: flatiron_flyers, image:"https://i.ibb.co/DRPQBJH/miwha-geschwind.jpg")
+ Player.create(name:"Tissi Alves", age: 28, position:"Cutter", level:"Advanced", gender:"female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/6YH8vck/tissiana-alves.jpg")
 
 
-Player.create(name:"Glinda Gambrel", age: 50, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Tiger", team: hucks, image:"" )
-Player.create(name:"Heike Ruggiero", age: 30, position: "Cutter", gender: "Non-binary", level: "Beginner", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Ermelinda Stainback", age: 19, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Adam Smith", age: 25, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Jill Johnson", age: 25, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Thomas Elliot", age: 29, position: "Cutter", gender: "Non-binary", level: "Advanced", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Sarah Driver", age: 32, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Amy Seshion", age: 44, position: "Handler", gender: "Female", level: "Intermediate", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Alex Cromwell", age: 23, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: hucks, image:"" )
-Player.create(name:"Dave Stienwall", age: 22, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: hucks, image:"" )
+Player.create(name:"Adam Shappy", age: 50, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Tiger", team: hucks, image:"https://i.ibb.co/4MSYfft/adam-shappy.jpg" )
+Player.create(name:"Aj Diaz", age: 19, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: hucks, image:"https://i.ibb.co/5TWmmKP/aj-diaz.jpg" )
+Player.create(name:"Alexis Chilinski", age: 25, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: hucks, image:"https://i.ibb.co/zRKDSxz/alexis-chilinski.jpg" )
+Player.create(name:"Ben Tagtow", age: 25, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: hucks, image:"https://i.ibb.co/sjTvbF0/ben-tagtow.jpg" )
+Player.create(name:"Charles Kiel", age: 37, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: hucks, image:"https://i.ibb.co/Fq9rGB8/charles-kiel.jpg" )
+Player.create(name:"Dani Matton", age: 23, position: "Handler", gender: "Female", level: "Intermediate", spirit_animal:"", team: hucks, image:"https://i.ibb.co/wpNfvkg/dani-matton.jpg" )
+Player.create(name:"Denise Magner", age: 22, position: "Handler", gender: "Female", level: "Intermediate", spirit_animal:"", team: hucks, image:"https://i.ibb.co/BsGZG4k/denise-magner.jpg" )
+Player.create(name:"Todd Carlson", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: hucks, image:"https://i.ibb.co/Ksz5WCR/todd-carlson.jpg" )
+Player.create(name:"Tyler Funk", age: 24, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: hucks, image:"https://i.ibb.co/L08rsdV/tyler-funk.jpg" )
 
 
-Player.create(name:"Ronna Kale", age: 28, position: "Handler", gender: "Genderless", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Emelina Elsass", age: 28, position: "Handler", gender: "Non-binary", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Robbi Tores", age: 18, position: "Handler", gender: "Female", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Heath Mcelravy", age: 20, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Elsa Burnell", age: 38, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Mahalia Watford", age: 35, position: "Cutter", gender: "Female", level: "Advanced", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Tyrell Coolbaugh", age: 20, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Albert Shutt", age: 30, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Zena Wurth", age: 19, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"" )
-Player.create(name:"Candyce Casady", age: 31, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: frizards, image:"" )
+Player.create(name:"Doug Johnson", age: 28, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: frizards, image:"https://i.ibb.co/WBqzKtg/doug-johnson.jpg" )
+Player.create(name:"Evan Greer", age: 28, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: frizards, image:"https://i.ibb.co/MNFzdw3/evan-greer.jpg" )
+Player.create(name:"Jack Perry", age: 18, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: frizards, image:"https://i.ibb.co/ZNdZbwS/jack-perry.png" )
+Player.create(name:"Jared Matta", age: 20, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: frizards, image:"https://i.ibb.co/TB2sw1J/jared-matta.jpg" )
+Player.create(name:"Jeremy Gray", age: 35, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: frizards, image:"https://i.ibb.co/dLmQH4h/jeremy-gray.jpg" )
+Player.create(name:"Joe Gelay", age: 20, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: frizards, image:"https://i.ibb.co/dkX8TJx/joe-gelay.jpg" )
+Player.create(name:"John Rogala", age: 30, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"https://i.ibb.co/87Nzn7P/john-rogala.jpg" )
+Player.create(name:"Jonathan Higger", age: 19, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"https://i.ibb.co/L6vxxS1/jonathan-higger.jpg" )
+Player.create(name:"Karl Matthes", age: 31, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: frizards, image:"https://i.ibb.co/wZtGtsp/karl-matthes.jpg" )
 
 
-Player.create(name:"Moshe Schlager", age: 22, position: "Handler", gender: "Male", level: "Advanced", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Lizbeth Reis", age: 29, position: "Handler", gender: "Female", level: "Advanced", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Frankie Hoyos", age: 26, position: "Handler", gender: "Female", level: "Beginner", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Mistie Farina", age: 24, position: "Handler", gender: "Non-binary", level: "Beginner", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Cassey Gales", age: 29, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Meri Bale", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Vicente Trojan", age: 36, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Maxima Keltz", age: 40, position: "Cutter", gender: "Male", level: "Intermediate", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Justa Click", age: 22, position: "Cutter", gender: "Male", level: "Intermediate", spirit_animal:"", team: black_metal, image:"" )
-Player.create(name:"Verna Halper", age: 27, position: "Cutter", gender: "Male", level: "Intermediate", spirit_animal:"", team: black_metal, image:"" )
+Player.create(name:"Katie Belanger", age: 29, position: "Handler", gender: "Female", level: "Advanced", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/9nFLnZ2/katie-belanger.jpg" )
+Player.create(name:"Kelly Rudnicki", age: 26, position: "Handler", gender: "Female", level: "Beginner", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/0yqHMtg/kelly-rudnicki.jpg" )
+Player.create(name:"Kristine Du", age: 24, position: "Handler", gender: "Female", level: "Beginner", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/RDgZBnK/kristine-du.jpg" )
+Player.create(name:"Mateusz Mrozewski", age: 29, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/VSSWfH7/mateusz-mrozewski.jpg" )
+Player.create(name:"Michael Newman", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/x6NK8fb/michael-newman.jpg" )
+Player.create(name:"Mike De La Rosa", age: 36, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/VHNNgkK/mike-de-la-rosa.jpg" )
+Player.create(name:"Miriam Grisby", age: 40, position: "Cutter", gender: "Female", level: "Intermediate", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/JkRW2zY/miriam-grisby.jpg" )
+Player.create(name:"Parker Becall", age: 22, position: "Cutter", gender: "Male", level: "Intermediate", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/0ygScWx/parker-becall.jpg" )
+Player.create(name:"Patrick Hoehn", age: 27, position: "Cutter", gender: "Male", level: "Intermediate", spirit_animal:"", team: black_metal, image:"https://i.ibb.co/RzFCFwv/patrick-hoehn.jpg" )
+
+Player.create(name:"Kat Scriver", age: 19, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: llamas, image:"https://i.ibb.co/pvQ4YWS/kat-scriver.jpg" )
+Player.create(name:"Jared Stromberg", age: 20, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"https://i.ibb.co/wSkKJZT/jared-stromberg.jpg" )
+Player.create(name:"Ahmed Gaber", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"https://i.ibb.co/8XTNnmz/ahmed-gaber.jpg" )
+Player.create(name:"Damon Chivers", age: 44, position: "Handler", gender: "Male", level: "Intermediate", spirit_animal:"", team: llamas, image:"https://i.ibb.co/rZntR0t/damon-chivers.png" )
+Player.create(name:"Brian Firooz", age: 29, position: "Cutter", gender: "Male", level: "Advanced", spirit_animal:"", team: llamas, image:"https://i.ibb.co/gVKbDG1/brian-firooz.jpg" )
+Player.create(name:"Jesse Pope", age: 30, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: llamas, image:"https://i.ibb.co/gyy9yh6/jesse-pope.png" )
+Player.create(name:"Josh Couper", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"https://i.ibb.co/QK3kRPV/josh-couper.png" )
+Player.create(name:"Kyle Coberly", age: 40, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"https://i.ibb.co/z44WpcX/kyle-coberly.png" )
 
 
-Player.create(name:"Samatha Overmyer", age: 26, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Goldie Centers ", age: 24, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Albertha Gabriele", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Zola Pilgrim", age: 22, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Alline Prado", age: 25, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"German Burnett", age: 33, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Veronica Spece", age: 36, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Rosalva Ottesen", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Bev Quiros", age: 19, position: "Cutter", gender: "Non-binary", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
-Player.create(name:"Sherman Hayslett", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: flat_discers, image:"" )
+Player.create(name:"Adam Driver", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Antelope", team: flat_discers, image:"https://i.ibb.co/L1pgnGJ/adamdriver.jpg" )
+Player.create(name:"Beyonce", age: 22, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Queen Bee", team: flat_discers, image:"https://i.ibb.co/YysBFB2/beyonce.jpg" )
+Player.create(name:"Daniel Caeser", age: 25, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Lion", team: flat_discers, image:"https://i.ibb.co/HVPrHT8/danielc.jpg" )
+Player.create(name:"Frank Ocean", age: 33, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Cayote", team: flat_discers, image:"https://i.ibb.co/cyP4S44/franko.jpg" )
+Player.create(name:"Mac Miller", age: 36, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: flat_discers, image:"https://i.ibb.co/cQkKRGT/mac.jpg" )
+Player.create(name:"Hailey Steinfeld", age: 26, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Dog", team: flat_discers, image:"https://i.ibb.co/NmkXpJV/hailey-steinfeld.jpg" )
+Player.create(name:"Her", age: 19, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Bear", team: flat_discers, image:"https://i.ibb.co/23hm9RD/her.jpg" )
+Player.create(name:"Rex Orange County", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Mountain Lion", team: flat_discers, image:"https://i.ibb.co/sP4NYXh/rex.jpg" )
 
 
-Player.create(name:"Gregoria Lomax", age: 42, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Shemika He", age: 44, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Kristin Sherry", age: 30, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Tyson Donoghue", age: 32, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Beverley Fisher", age: 30, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Randi Mcsween", age: 22, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Mackenzie Rosell", age: 23, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Joella Brandis", age: 27, position: "Cutter", gender: "Non-binary", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
-Player.create(name:"Judson Kushner", age: 28, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: redrum, image:"" )
+Player.create(name:"Andy Dwyer", age: 42, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Dog", team: redrum, image:"https://i.ibb.co/dbBCjw5/andy.jpg" )
+Player.create(name:"April Ludgate", age: 44, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Cat", team: redrum, image:"https://i.ibb.co/ThpSWNj/april.jpg" )
+Player.create(name:"Gale Gergich", age: 30, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Couger", team: redrum, image:"https://i.ibb.co/GP71gnH/gale-gerfich.jpg" )
+Player.create(name:"Jerry/Gary Gergich", age: 32, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Panda", team: redrum, image:"https://i.ibb.co/QkfwQ06/jerry.jpg" )
+Player.create(name:"Leslie Knope", age: 30, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Hummingbird", team: redrum, image:"https://i.ibb.co/g7KZT3W/leslie.jpg" )
+Player.create(name:"Ron Swanson", age: 22, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Lion", team: redrum, image:"https://i.ibb.co/JzZK96x/ron-swanson.jpg" )
+Player.create(name:"Tommy Haverford", age: 33, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Bird", team: redrum, image:"https://i.ibb.co/6Wz14ZW/tommy.jpg" )
+Player.create(name:"No Name", age: 27, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Cat", team: redrum, image:"https://i.ibb.co/HqkKSXB/noname.jpg" )
 
 
-Player.create(name:"Bailey Rott", age: 29, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
-Player.create(name:"Grace Adkins", age: 25, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
-Player.create(name:"Hai Malson", age: 27, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
-Player.create(name:"Arden Hatcher", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
-Player.create(name:"Kacy Yeates", age: 20, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
-Player.create(name:"Cristobal Cogswell", age: 37, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
-Player.create(name:"Wiley Halley", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: mighty_hucks, image:"" )
+Player.create(name:"Sansa Stark", age: 29, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Wolf", team: mighty_hucks, image:"https://i.ibb.co/1RM7h6L/sans.jpg" )
+Player.create(name:"Jon Snow", age: 25, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Wolf", team: mighty_hucks, image:"https://i.ibb.co/VNPLB80/jonsnow.jpg" )
+Player.create(name:"Drogon", age: 27, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Is a dragon", team: mighty_hucks, image:"https://i.ibb.co/m9mNBHg/drogon.jpg" )
+Player.create(name:"Khal Drogo", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Horse", team: mighty_hucks, image:"https://i.ibb.co/B3fWq8K/drogo.jpg" )
+Player.create(name:"Daenerys Targaryen", age: 20, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Dragon", team: mighty_hucks, image:"https://i.ibb.co/ZJywFZj/danyt.jpg" )
+Player.create(name:"Cersei Lannister", age: 37, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Lion", team: mighty_hucks, image:"https://i.ibb.co/JdmWcsc/cersei-lannister.jpg" )
+Player.create(name:"Arya Stark", age: 34, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Wolf", team: mighty_hucks, image:"https://i.ibb.co/D8S1LRq/arya-stark.jpg" )
 
 
-Player.create(name:"Latasha Zelinski", age: 19, position: "Cutter", gender: "Non-binary", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Clemencia Dau", age: 40, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Johnathon Priest", age: 37, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Chuck Nichol", age: 32, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Willia Rains", age: 33, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Henriette Coriell", age: 29, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Ida Cambre", age: 29, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Maryanna Cedillo", age: 20, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Stephanie Quiles", age: 26, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
-Player.create(name:"Delicia Calder", age: 27, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: firetruck, image:"" )
+Player.create(name:"Angela Martin", age: 19, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Cat", team: firetruck, image:"https://i.ibb.co/tYjh5c7/angela-martin.jpg" )
+Player.create(name:"Creed Bratton", age: 40, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Racoon", team: firetruck, image:"https://i.ibb.co/QrTLC21/creed-bratton.jpg" )
+Player.create(name:"Dwight Schrute", age: 37, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Ostrich", team: firetruck, image:"https://i.ibb.co/1MBybPS/dwight-schrute.jpg" )
+Player.create(name:"Jim Halpert", age: 32, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Giraffe", team: firetruck, image:"https://i.ibb.co/DbNgLZC/jim-halpert.jpg" )
+Player.create(name:"Kelly Kapoor", age: 33, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Mouse", team: firetruck, image:"https://i.ibb.co/qFQMnsz/kelly-kapoor.jpg" )
+Player.create(name:"Kevin Malone", age: 29, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Sloth", team: firetruck, image:"https://i.ibb.co/7vb7Ybt/kevin-malone.jpg" )
+Player.create(name:"Meridith Palmer", age: 29, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Racoon", team: firetruck, image:"https://i.ibb.co/kcVKwHz/meridith.jpg" )
+Player.create(name:"Michael Scott", age: 40, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Monkey", team: firetruck, image:"https://i.ibb.co/SmZKNKG/michael-scott.jpg" )
+Player.create(name:"Pam Beesly", age: 26, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"Dog", team: firetruck, image:"https://i.ibb.co/y46rfKg/pam-beesly.jpg" )
+Player.create(name:"Stanley Hudson", age: 27, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Panda", team: firetruck, image:"https://i.ibb.co/C0ynDzX/stanley-hudson.jpg" )
 
 
-Player.create(name:"Holly Merrit", age: 19, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Genevieve Griego", age: 20, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Maryalice Blue", age: 26, position: "Cutter", gender: "Non-binary", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Kaylee Hogan", age: 28, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Bailey Rott", age: 30, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Eliza Rupp", age: 34, position: "Cutter", gender: "Female", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Lawerence Rider", age: 40, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Parker Greig", age: 28, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Tommie Casselman", age: 26, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
-Player.create(name:"Newton Wallach", age: 25, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"", team: llamas, image:"" )
 
 
  #Game Info 

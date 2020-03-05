@@ -9,4 +9,15 @@ class TeamGamesController < ApplicationController
         render json: @team_game, include: [:team, :rival, game: {include: :location}]
 
     end 
+
+
+    def create
+        @team_game = TeamGame.create({
+            team_id: params[:team],
+            rival_id: params[:rival], 
+            game_id: params[:game]
+         })
+         render json: @team_game 
+    end
+
 end
