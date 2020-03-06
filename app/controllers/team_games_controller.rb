@@ -20,4 +20,9 @@ class TeamGamesController < ApplicationController
          render json: @team_game 
     end
 
+    def destroy
+        @team_game = TeamGame.find(params[:id])
+        @team_game.destroy
+    end
+
 end
