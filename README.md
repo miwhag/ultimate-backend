@@ -28,6 +28,7 @@ This mod 3 fullstack app was created with the purpose of creating the ability to
 
 * Ruby on Rails 
 * Ruby 
+* Postman 
 
 ### Authors
 
