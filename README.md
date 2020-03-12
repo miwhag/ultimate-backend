@@ -31,7 +31,7 @@ This mod 3 fullstack app was created with the purpose of creating the ability to
 
 ### ERD 
 
-![](ERD.png)
+
 
 ### Things to add / Down the pipeline
 
