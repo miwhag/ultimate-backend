@@ -17,6 +17,9 @@ class GamesController < ApplicationController
            date: params[:date],
            score_id: params[:score]
         })
+        p "REIGHT HERE"
+        p @game
         render json: @game 
+
     end 
 end

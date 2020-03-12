@@ -46,17 +46,17 @@ llamas = Team.create(name:"Flying Llamas", color: "Yellow", image: "https://i.ib
  # Player Names 
 
 
- Player.create(name:"Corey Hodge", age: 32, position:"Handler", level:"Advanced", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/z6TWndG/corey-hodge.jpg")
- Player.create(name:"Bradley Haley", age: 26, position:"Handler", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/h8qVxHm/bradley-haley.jpg")
- Player.create(name:"Lillian Bitner", age: 24, position:"Handler", level:"Beginner", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/FKmTLmd/lillian-bitner.jpg")
- Player.create(name:"Rachel Emmer", age: 29, position:"Handler", level:"Advanced", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/S5M8kWF/rachel-emmer.jpg")
+ Player.create(name:"Corey Hodge", age: 32, position:"Handler", level:"Advanced", gender:"Male", spirit_animal:"Lion", team: flatiron_flyers, image:"https://i.ibb.co/z6TWndG/corey-hodge.jpg")
+ Player.create(name:"Bradley Haley", age: 26, position:"Handler", level:"Intermediate", gender:"Male", spirit_animal:"Bear", team: flatiron_flyers, image:"https://i.ibb.co/h8qVxHm/bradley-haley.jpg")
+ Player.create(name:"Lillian Bitner", age: 24, position:"Handler", level:"Beginner", gender:"Female", spirit_animal:"Ostrich/Giraffe", team: flatiron_flyers, image:"https://i.ibb.co/FKmTLmd/lillian-bitner.jpg")
+ Player.create(name:"Rachel Emmer", age: 29, position:"Handler", level:"Advanced", gender:"Female", spirit_animal:"Golden Retriever", team: flatiron_flyers, image:"https://i.ibb.co/S5M8kWF/rachel-emmer.jpg")
  
- Player.create(name:"Josh Cabral", age: 28, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/1ZvWJzf/josh-cabral.jpg")
- Player.create(name:"Jorge Santos", age: 19, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/r6KHd2M/jorge-santos.jpg")
- Player.create(name:"Aaron Burmeister", age: 30, position:"Cutter", level:"Intermediate", gender:"Male", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/whmrm6r/aaron-burmeister.jpg")
- Player.create(name:"Alice Richardson", age: 27, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/h9652gM/alice-richardson.jpg")
+ Player.create(name:"Josh Cabral", age: 28, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"Horse", team: flatiron_flyers, image:"https://i.ibb.co/1ZvWJzf/josh-cabral.jpg")
+ Player.create(name:"Jorge Santos", age: 19, position:"Cutter", level:"Beginner", gender:"Male", spirit_animal:"Bird", team: flatiron_flyers, image:"https://i.ibb.co/r6KHd2M/jorge-santos.jpg")
+ Player.create(name:"Aaron Burmeister", age: 30, position:"Cutter", level:"Intermediate", gender:"Male", spirit_animal:"Mouse", team: flatiron_flyers, image:"https://i.ibb.co/whmrm6r/aaron-burmeister.jpg")
+ Player.create(name:"Alice Richardson", age: 27, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"Lamb", team: flatiron_flyers, image:"https://i.ibb.co/h9652gM/alice-richardson.jpg")
  Player.create(name:"Miwha Geschwind", age: 26, position:"Cutter", level:"Intermediate", gender:"Female", spirit_animal:"Bear", team: flatiron_flyers, image:"https://i.ibb.co/DRPQBJH/miwha-geschwind.jpg")
- Player.create(name:"Tissi Alves", age: 28, position:"Cutter", level:"Advanced", gender:"female", spirit_animal:"", team: flatiron_flyers, image:"https://i.ibb.co/6YH8vck/tissiana-alves.jpg")
+ Player.create(name:"Tissi Alves", age: 28, position:"Cutter", level:"Advanced", gender:"female", spirit_animal:"Wolf", team: flatiron_flyers, image:"https://i.ibb.co/6YH8vck/tissiana-alves.jpg")
 
 
 Player.create(name:"Adam Shappy", age: 50, position: "Cutter", gender: "Male", level: "Beginner", spirit_animal:"Tiger", team: hucks, image:"https://i.ibb.co/4MSYfft/adam-shappy.jpg" )
