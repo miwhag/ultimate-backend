@@ -21,6 +21,7 @@ This mod 3 fullstack app was created with the purpose of creating the ability to
 
 
 ### ERD 
+Stands for Entity Relationship Diagram and is the structural model for my database design. 
 
 ![](DataModels.png)
 
