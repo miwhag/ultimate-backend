@@ -12,10 +12,13 @@
 
 ActiveRecord::Schema.define(version: 2020_03_04_010955) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "games", force: :cascade do |t|
-    t.integer "season_id", null: false
-    t.integer "location_id", null: false
-    t.integer "score_id"
+    t.bigint "season_id", null: false
+    t.bigint "location_id", null: false
+    t.bigint "score_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "time"
@@ -43,7 +46,7 @@ ActiveRecord::Schema.define(version: 2020_03_04_010955) do
     t.string "level"
     t.string "gender"
     t.string "spirit_animal"
-    t.integer "team_id", null: false
+    t.bigint "team_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "image"
@@ -65,9 +68,9 @@ ActiveRecord::Schema.define(version: 2020_03_04_010955) do
   end
 
   create_table "team_games", force: :cascade do |t|
-    t.integer "team_id", null: false
-    t.integer "rival_id", null: false
-    t.integer "game_id", null: false
+    t.bigint "team_id", null: false
+    t.bigint "rival_id", null: false
+    t.bigint "game_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["game_id"], name: "index_team_games_on_game_id"
